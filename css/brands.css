@@ -682,6 +682,17 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Printables */
+.button.button-printables {
+  color: #ffffff;
+  background-color: #fa6831;
+  border: 1px solid #FFFFFF;
+}
+.button.button-printables:hover,
+.button.button-printables:focus {
+  filter: brightness(90%);
+}
+
 /* Product Hunt */
 .button.button-product-hunt {
   color: #000000;
